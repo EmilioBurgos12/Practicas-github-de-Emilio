@@ -2,5 +2,5 @@
 
 ## emilio
 ## 2-1
-## Desarrollo web del servidor
+## Desarrollo web del lado del servidor
 ## En este repositorio esta dedicado para practicar sobre github
