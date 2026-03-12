@@ -1,3 +1,3 @@
 Proyecto: Git Conflicto
-Responsable: Emilio
+Responsable: Equipo-B
 Version: 1.0
